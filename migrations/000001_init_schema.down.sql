@@ -1,0 +1,8 @@
+DROP TABLE IF EXISTS attempt_answers;
+DROP TABLE IF EXISTS attempt_questions;
+DROP TABLE IF EXISTS attempts;
+DROP TABLE IF EXISTS test_questions;
+DROP TABLE IF EXISTS answer_options;
+DROP TABLE IF EXISTS tests;
+DROP TABLE IF EXISTS questions;
+DROP TABLE IF EXISTS users;
